@@ -1,0 +1,15 @@
+1-as mokinys gavo:
+    9
+    5
+    6
+    4
+2-as mokinys gavo:
+    3
+    7
+    4
+    5
+3-as mokinys gavo:
+    9
+    7
+    8
+    7

@@ -1,0 +1,9 @@
+Miesto pavadinimas     Plotas(km2.)  Gyventoju skc.(tukst). 
+           Paryzius            105.4                 2140.53
+           Marselis           240.62                 839.043
+Miesto pavadinimas     Plotas(km2.)  Gyventoju skc.(tukst). 
+           Londonas             1738                 9126.37
+Rezultatai:
+Miesto pavadinimas Gyventoju tankis             Valstybe
+           Marselis             3487          Prancuzija
+           Londonas          5251.07  Didzioji_Britanija

@@ -1,0 +1,19 @@
+Leidinio pavadinimas          Egzemplioriu per men. Kaina
+Zmones                        4                     2.00 
+OHO_galvosukiai               1                     0.96 
+Kazkas                        5                     0.29 
+
+Leidinio pavadinimas          Egzemplioriu per men. Kaina
+Zmones                        4                     3.00 
+OHO_galvosukiai               1                     0.85 
+Sodo_spalvos                  1                     1.99 
+Apie_muzika                   1                     1.00 
+
+Rezultatai:
+Leidinio pavadinimas                    3 men. kaina 6 men. kaina 12 men. kaina 
+Apie_muzika                             3.00         6.00         12.00         
+Kazkas                                  4.35         8.70         17.40         
+OHO_galvosukiai                         2.88         5.76         11.52         
+Sodo_spalvos                            5.97         11.94        23.88         
+Zmones                                  24.00        48.00        96.00         
+Pigiausias zurnalas metams: OHO_galvosukiai 11.52

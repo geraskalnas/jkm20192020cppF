@@ -1,0 +1,13 @@
+Pradiniai duomenys: 
+            Pavarde         Vardas  Pazymiai
+  *         Musokis          Benas 8 9 7 5 8 9 10 9 
+  *           Menti     Gabrielius 6 8 5 9 7 8 8 9 
+  *          Peleda    Aleksandras 4 2 9 9 9 5 9 8 
+
+Vidurkiai:
+                 Pavarde         Vardas Vidurkis
+  *              Musokis          Benas     8.13
+  *                Menti     Gabrielius      7.5
+  *               Peleda    Aleksandras     6.88
+
+Bendras klases vidurkis: 7.5

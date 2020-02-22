@@ -1,0 +1,8 @@
+Pradiniai duomenys: 
+                       Pavadinimas Kiekis Kaina
+  *     Saldytuvas_Beko_CSA270M21W      2   222
+  *        Xiaomi_Mi_band_4,_Juoda      5 27.96
+Rezultatai:
+Saldytuvas_Beko_CSA270M21W 0
+Is viso: 0
+
